@@ -1,10 +1,10 @@
 import torch
-from torch import nn
+import random
 import numpy as np
 import torch.utils.data as Data
-import random
-from torch.nn import init
 import torch.optim as optim
+from torch import nn
+from torch.nn import init
 
 # print(torch.__version__)
 torch.manual_seed(1)
