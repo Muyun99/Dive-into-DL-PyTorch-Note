@@ -1,6 +1,8 @@
 # Dive-into-DL-PyTorch-Note
 《动手学深度学习》(Dive into Deep Learning)的PyTorch实现课程笔记
 
+- 首先使用 download.py 下载所需要的文件，即可运行所有文件夹的Jupyter Notebook
+
 ### Task01
 - [1.Linear Regression](./1.Linear-Regression/Note.md)
 - [2.Softmax and Model for Classification](./2.Softmax-and-Model-for-Classification/Note.md)
