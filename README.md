@@ -14,16 +14,16 @@
 - [6.RNN-basic](./6.RNN-basic/Note.md)
 
 ### Task03
-- [7.过拟合、欠拟合及其解决方案]()
-- [8.梯度消失、梯度爆炸]()
-- [9.循环神经网络进阶]()
+- [7.Overfitting-Underfitting-and-Solution](./7.Overfitting-Underfitting-and-Solution/Note.md)
+- [8.Vanishing-Gradient-and-Exploding-Gradient](./8.Vanishing-Gradient-and-Exploding-Gradient/Note.md)
+- [9.RNN-advanced](./9.RNN-advanced/Note.md)
 
 ### Task04
-- [10.机器翻译及相关技术]()
-- [11.注意力机制与Seq2seq模型]()
-- [12.Transformer]()
+- [10.Machine-translation-and-related-technologies](./10.Machine-translation-and-related-technologies/Note.md)
+- [11.Attention-and-Seq2Seq](./11.Attention-and-Seq2Seq/Note.md)
+- [12.Transformer](./12.Transformer/Note.md)
 
 ### Task05
-- [13.卷积神经网络基础]()
-- [14.LeNet]()
-- [15.卷积神经网络进阶]()
+- [13.CNN-basic](./13.CNN-basic/Note.md)
+- [14.LeNet](./14.LeNet/Note.md)
+- [15.CNN-advanced](./15.CNN-advanced/Note.md)
