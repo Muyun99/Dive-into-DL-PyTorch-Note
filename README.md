@@ -27,3 +27,23 @@
 - [13.CNN-basic](./13.CNN-basic/Note.md)
 - [14.LeNet](./14.LeNet/Note.md)
 - [15.CNN-advanced](./15.CNN-advanced/Note.md)
+
+### Task06
+- [16.Batch-Normalization-and-Resnet](./16.Batch-Normalization-and-Resnet]/Note.md)
+- [17.Convex-Optimization](./17.Convex-Optimization/Note.md)
+- [18.Gradient-Descent](./18.Gradient-Descent/Note.md)
+
+### Task08：
+- [19.Data-Augmentation](./19.Data-Augmentation/Note.md)
+- [20.Model-fine-tuning](./20.Model-fine-tuning/Note.md)
+
+### Task09
+- [21.Object-Detection](./21.Object-Detection/Note.md)
+- [22.Neural-Style](./22.Neural-Style/Note.md)
+- [23.Image-Classification-1](./23.Image-Classification-1/Note.md)
+
+
+### Task10
+- [24.Image-Classification-2](./24.Image-Classification-2/Note.md)
+- [25.GAN](./25.GAN/Note.md)
+- [26.DCGAN](./26.DCGAN/Note.md)

@@ -1,8 +1,9 @@
-import torch
-from torch import nn
-import numpy as np
-import torch.utils.data as Data
 import random
+
+import numpy as np
+import torch
+import torch.utils.data as Data
+from torch import nn
 
 print(torch.__version__)
 torch.manual_seed(1)
@@ -75,4 +76,3 @@ def train(features,labels):
 if __name__ == "__main__":
     features,labels = data_generate()
     train(features,labels)
-    

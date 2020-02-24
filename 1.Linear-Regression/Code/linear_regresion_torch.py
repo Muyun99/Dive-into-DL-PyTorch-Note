@@ -1,8 +1,9 @@
-import torch
 import random
+
 import numpy as np
-import torch.utils.data as Data
+import torch
 import torch.optim as optim
+import torch.utils.data as Data
 from torch import nn
 from torch.nn import init
 
